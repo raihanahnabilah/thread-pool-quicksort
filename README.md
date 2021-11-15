@@ -1,5 +1,11 @@
 # ThreadPool
 
-Mid-term project for YSC4231.
+Mid-term project for YSC4231 at Yale-NUS College, Singapore.
 
-Implementation of a simple thread pool and its applications. See the full description [here](https://ilyasergey.net/YSC4231/week-07-midterm-project.html).
+## Author:
+ 
+Raihanah Nabilah Fatinah
+
+## Description:
+
+The report for this project can be found under "Report.pdf" file, and the implementations can be found under `src` -> `main` -> `scala` file.
